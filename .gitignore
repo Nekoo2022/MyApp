@@ -1,0 +1,24 @@
+# Папки сборки
+bin/
+obj/
+
+# Пользовательские настройки VS Code и Rider
+.vscode/
+.idea/
+
+# Кэш и логи
+*.log
+*.vspscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Пакеты NuGet (их можно восстановить через dotnet restore)
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Файлы публикации
+*.publishsettings
