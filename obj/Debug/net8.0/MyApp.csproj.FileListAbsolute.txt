@@ -1,0 +1,14 @@
+/Users/nikita/Программирование/мирэа/пкс/MyApp/bin/Debug/net8.0/MyApp
+/Users/nikita/Программирование/мирэа/пкс/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/nikita/Программирование/мирэа/пкс/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/nikita/Программирование/мирэа/пкс/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/nikita/Программирование/мирэа/пкс/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/nikita/Программирование/мирэа/пкс/MyApp/obj/Debug/net8.0/ref/MyApp.dll
